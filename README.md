@@ -1,6 +1,6 @@
 # Gimp Text Outliner for Gimp 2.10
 
-This is an awesome plugin developed by Pete Nu which adds a stroke color around each layer. It's a great way to stroke text, but it can be used on another images as well. Doing this by hand is a tedious process. 
+This is an awesome plugin developed by Pete Nu which adds a stroke color around each layer. It's a great way to stroke text, but it can be used on other layers as well. Doing this by hand is a tedious process. 
 
 You can find the original plugin over here: http://pete.nu/software/gimp-outliner/
 
