@@ -8,6 +8,6 @@ Gimp 2-10 broke the plugin. Selecting a color now crashes the plugin now so your
 
 To Install:
 
-Windows: Drop in /%USER%/AppData/Roaming/GIMP/2.10/plug-ins
-Mac: Drop in %USER%/Library/Application Support/GIMP/2.10/plug-ins
+Windows: Drop in /%USER%/AppData/Roaming/GIMP/2.10/plug-ins  
+Mac: Drop in %USER%/Library/Application Support/GIMP/2.10/plug-ins  
 Linux: ?
